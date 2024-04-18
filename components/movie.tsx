@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "../styles/Movie.module.css";
+import styles from "../styles/movie.module.css";
 interface IMovieProps {
 	title: string;
 	id: string;
